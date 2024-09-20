@@ -1,1 +1,4 @@
 # numpy
+In the Basketball Analytics Project, I want to analyze how well players perform in basketball by calculating important statistics from a dataset with player stats by season. I provide insights into metrics like field goal accuracy, three-point accuracy, free throw accuracy, and overall shooting effectiveness. This analysis can help teams, coaches, and analysts make better decisions to improve performance on the court.
+
+I designed the project around a main class called BasketballAnalytics, which handles loading the data, calculating metrics, and finding the top players for each statistic. Each method focuses on a specific calculation, making the code easier to manage. However, I know there are limitations, like relying on complete and accurate data and not fully capturing a player’s overall impact. In the future, I hope to add visualizations and more advanced analyses to gain deeper insights into player performance.
